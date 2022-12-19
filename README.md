@@ -1,2 +1,1 @@
-# ProgrammingLanguage
-Note for C++ Primer 
+# Note for C++ Primer 
